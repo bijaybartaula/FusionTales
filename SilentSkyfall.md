@@ -128,6 +128,10 @@ Their love had withstood the chaos, the betrayals, and the dangers they had face
 
 ---
 
+## Written By: Bijay Bartaula
+
+---
+
 ## License
 
 This story is licensed under the [MIT License](LICENSE).
