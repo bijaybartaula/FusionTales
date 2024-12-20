@@ -6,14 +6,6 @@ The year is 2040. The world has fractured under the weight of technological ambi
 
 This is the story of **Nikhil**, a tech genius trapped between ambition and morality, and **Anne**, a fierce environmentalist determined to protect the Earth. Their journey through betrayal, love, and the collapse of a corporate empire will change everything.
 
-# The Shadows of Annapurna
-
-## Introduction
-
-The year is 2040. The world has fractured under the weight of technological ambition. The once-thriving Earth is now a dystopian wasteland, the environment decaying as corporate oligarchies use AI to control every aspect of life. Floating cities dominate the skies, and the elite reside far above the suffering world below. At ground level, the majority of the population is left to fend for survival, disconnected from nature. Amidst this chaos, a hidden community in the Annapurna mountain range holds ancient secrets that could either save or destroy the planet.
-
-This is the story of **Nikhil**, a tech genius trapped between ambition and morality, and **Anne**, a fierce environmentalist determined to protect the Earth. Their journey through betrayal, love, and the collapse of a corporate empire will change everything.
-
 ---
 
 ## The Characters
