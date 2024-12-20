@@ -128,9 +128,17 @@ Their love had withstood the chaos, the betrayals, and the dangers they had face
 
 ---
 
-## Written By: Bijay Bartaula
+## Themes
+
+- **Dystopian Science Fiction**: The story is set in a future world where technological advancements, particularly AI, have caused environmental decay and societal imbalance. It explores themes of corporate control, environmental destruction, and the consequences of unchecked technological power.
+- **Romance**: The central relationship between Nikhil and Anne evolves throughout the story, with their growing love becoming a key emotional driver and complicating their individual missions.
+- **Thriller**: The story includes suspense, betrayal, and high-stakes action as characters navigate dangerous situations, including corporate manipulation and efforts to stop a world-changing AI project.
+- **Adventure**: The journey through the Annapurna mountain range and the quest to stop the AI project involve significant exploration and action, with characters overcoming both external and internal obstacles.
 
 ---
+
+## Written By: Bijay Bartaula
+
 
 ## License
 
